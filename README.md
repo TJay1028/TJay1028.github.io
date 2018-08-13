@@ -6,7 +6,7 @@ Project Website
         <meta charset="utf-8">
         <title>CSS inheritance</title>
         <style>
-            h1{color:green}
+            h1{color:green;}
         </style>
         
         <h1> My life</h1>
