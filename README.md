@@ -10,5 +10,6 @@ Project Website
         </style>
         
         <h1> My life</h1>
+        <img src = "https://pixabay.com/en/wind-farm-wind-energy-1747331/"> alt="a picture of something">
     </body>
 </html>
