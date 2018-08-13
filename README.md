@@ -6,9 +6,7 @@ Project Website
         <meta charset="utf-8">
         <title>CSS inheritance</title>
         <style>
-        body {
-            font-size: 12px;
-        }
-    
+        
+    </style>
     </body>
 </html>
