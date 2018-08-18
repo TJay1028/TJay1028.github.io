@@ -8,9 +8,9 @@ Project Website
         <style>
             h1{color:green;}
         </style>
-        </head>
-  <body>
+    </head>
+    <body>
         <h1> My life</h1>
-        <img src = "sky.jpg">
+        <img src = "sky.jpg" alt="image of airplane">
     </body>
 </html>
