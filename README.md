@@ -11,6 +11,6 @@ Project Website
         </head>
   <body>
         <h1> My life</h1>
-        <img src = ".https://www.w3schools.com/images/lamp.jpg>
+        <img src = "https://www.w3schools.com/images/lamp.jpg>
     </body>
 </html>
