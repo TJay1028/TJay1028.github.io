@@ -12,5 +12,8 @@ Project Website
     <body>
         <h1> My life</h1>
         <img src = "./sky.jpg" alt="image of airplane">
-    </body>
+   <address>
+       hey
+   </address>
+   </body>
 </html>
